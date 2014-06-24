@@ -16,4 +16,5 @@ class shit{
 $yourshit = new shit("yellow",25);
 $yourshit->bomb();
 $yourshit->bomb();
+$yourshit->bomb();
 ?>
